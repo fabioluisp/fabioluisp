@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/static/js/main.4a8bcaf1.chunk.js",
+    "main.js.map": "/static/js/main.4a8bcaf1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2f31e9e4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2f31e9e4.js.map",
+    "static/js/2.0881e48e.chunk.js": "/static/js/2.0881e48e.chunk.js",
+    "static/js/2.0881e48e.chunk.js.map": "/static/js/2.0881e48e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.82d4f9471bfafa93c0e198234381202f.js": "/precache-manifest.82d4f9471bfafa93c0e198234381202f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.0881e48e.chunk.js.LICENSE.txt": "/static/js/2.0881e48e.chunk.js.LICENSE.txt",
+    "static/media/IPHONE-APP.svg": "/static/media/IPHONE-APP.36a8104a.svg",
+    "static/media/apple-white.svg": "/static/media/apple-white.ee28c20d.svg",
+    "static/media/checked.svg": "/static/media/checked.ee582645.svg",
+    "static/media/chinese-food.svg": "/static/media/chinese-food.f2870c19.svg",
+    "static/media/cliente-img-1.svg": "/static/media/cliente-img-1.6277484a.svg",
+    "static/media/cliente-img-2.svg": "/static/media/cliente-img-2.edc1546f.svg",
+    "static/media/fork.svg": "/static/media/fork.a840b0e9.svg",
+    "static/media/google-play-white.svg": "/static/media/google-play-white.51c8fc8e.svg",
+    "static/media/imgDashboard.svg": "/static/media/imgDashboard.be06cfc1.svg",
+    "static/media/logo-horizontal.svg": "/static/media/logo-horizontal.94099e86.svg",
+    "static/media/logoRest.svg": "/static/media/logoRest.1af1bd29.svg",
+    "static/media/menu.svg": "/static/media/menu.08088a65.svg",
+    "static/media/onemenu-logo-branco.svg": "/static/media/onemenu-logo-branco.ff9f001e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f31e9e4.js",
+    "static/js/2.0881e48e.chunk.js",
+    "static/js/main.4a8bcaf1.chunk.js"
+  ]
+}
