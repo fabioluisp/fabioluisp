@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.4a8bcaf1.chunk.js",
-    "main.js.map": "/static/js/main.4a8bcaf1.chunk.js.map",
+    "main.js": "/static/js/main.731c8a04.chunk.js",
+    "main.js.map": "/static/js/main.731c8a04.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2f31e9e4.js",
     "runtime-main.js.map": "/static/js/runtime-main.2f31e9e4.js.map",
-    "static/js/2.0881e48e.chunk.js": "/static/js/2.0881e48e.chunk.js",
-    "static/js/2.0881e48e.chunk.js.map": "/static/js/2.0881e48e.chunk.js.map",
+    "static/js/2.e0a126c3.chunk.js": "/static/js/2.e0a126c3.chunk.js",
+    "static/js/2.e0a126c3.chunk.js.map": "/static/js/2.e0a126c3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.82d4f9471bfafa93c0e198234381202f.js": "/precache-manifest.82d4f9471bfafa93c0e198234381202f.js",
+    "precache-manifest.29cc82464a188d3ee5e1a0d933ef744a.js": "/precache-manifest.29cc82464a188d3ee5e1a0d933ef744a.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.0881e48e.chunk.js.LICENSE.txt": "/static/js/2.0881e48e.chunk.js.LICENSE.txt",
+    "static/js/2.e0a126c3.chunk.js.LICENSE.txt": "/static/js/2.e0a126c3.chunk.js.LICENSE.txt",
     "static/media/IPHONE-APP.svg": "/static/media/IPHONE-APP.36a8104a.svg",
     "static/media/apple-white.svg": "/static/media/apple-white.ee28c20d.svg",
     "static/media/checked.svg": "/static/media/checked.ee582645.svg",
@@ -26,7 +26,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2f31e9e4.js",
-    "static/js/2.0881e48e.chunk.js",
-    "static/js/main.4a8bcaf1.chunk.js"
+    "static/js/2.e0a126c3.chunk.js",
+    "static/js/main.731c8a04.chunk.js"
   ]
 }
